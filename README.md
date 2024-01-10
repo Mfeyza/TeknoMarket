@@ -15,7 +15,7 @@ Detailed descriptions and pricing information for each product.
 Aesthetic layout and easy navigation.
 
 <div align="center">
-  <img src="./img/Ekran görüntüsü 2024-01-10 192045.png"  width="90.5%" height="450" />
+  <img src="./img/Ekran görüntüsü 2024-01-10 192045.png"  width="90.5%" height="550" />
 </div>
 
 
@@ -24,4 +24,5 @@ Frontend: HTML, CSS.
 Fonts: 'Tilt Neon' from Google Fonts for stylish typography
 
 
-visit my website: https://mfeyza.github.io/TeknoMarket/
+visit my website: tekno-market.vercel.app
+
