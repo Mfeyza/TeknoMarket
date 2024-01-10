@@ -182,3 +182,30 @@ i{
         font-size: 30px;
     }
 }
+@media (max-width: 480px) {
+    .main {
+        grid-template-columns: 1fr; 
+    }
+
+    .content {
+        margin: 5px;
+    }
+
+    .title, .price {
+        font-size: 14px; 
+    }
+
+    h1 {
+        font-size: 22px; 
+    }
+
+    .container {
+        width: 95%; 
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .main {
+        grid-template-columns: repeat(2, 1fr); 
+    }
