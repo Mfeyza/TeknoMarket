@@ -24,5 +24,5 @@ Frontend: HTML, CSS.
 Fonts: 'Tilt Neon' from Google Fonts for stylish typography
 
 
-visit my website: tekno-market.vercel.app
+visit my website: https://tekno-market.vercel.app/
 
