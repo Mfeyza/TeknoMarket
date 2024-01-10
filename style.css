@@ -148,3 +148,37 @@ i{
     font-family: 'Courier New', Courier, monospace;
     color: rgba(123, 111, 95, 0.544);
 }
+
+@media (max-width: 768px) {
+    .main {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .content {
+        margin: 10px;
+    }
+
+    .title, .price {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .main {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .title, .price {
+        font-size: 18px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+}
